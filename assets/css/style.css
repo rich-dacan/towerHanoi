@@ -157,3 +157,53 @@ section
   padding: 20px;
   border-top: #fff solid 1px;
 }
+
+.popUpVictory
+{
+  font-size: 3rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 700;
+  color: #fff;
+  position: fixed;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40vh;
+  width: 70vw;
+  background-color: rgb(144, 125, 17);
+  border-radius: 50px;
+  border: solid 3px white;
+}
+button
+{
+  position: fixed;
+  height: 30px;
+  width: 50px;
+  top: 0;
+  background-color: rgb(12, 95, 1);
+  cursor: pointer;
+  color: #fff;
+}
+
+.hidden
+{
+  display: none;
+}
+
+/* .popUpVictory
+{
+  background-color:transparent;
+  position: fixed;
+  bottom: 20px;
+  left: -100%;
+  padding: 20px 30px;
+  border-radius: 5px;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  z-index: 2;
+  transition: 0.8s;
+  -webkit-box-shadow: 0px 0px 9px 0px #000000; 
+  box-shadow: 0px 0px 9px 0px #000000;
+} */
