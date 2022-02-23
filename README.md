@@ -175,39 +175,3 @@
           até no máximo 5 discos.
         </li>
       </ol>
-<h3>3 — Finalizando o projeto</h3>
-      <p>
-        Faça o push do código para o seu repositório GitHub, altere a
-        visibilidade do repositório para internal e implemente-o GitHub pages.
-        No Canvas, por favor, envie sua url do GitHub Pages:
-        <strong>(ex:https://nomerandomico.pages.github.io/)</strong>
-        e envie o link do seu repositório e do trello ou notion nos comentários.
-        Atenção, seu repositório deverá ser compartilhado apenas com a
-        organização.
-        <strong>(Internal)</strong>
-      </p>
-      <section class="hilightedContet hilightedContet--references">
-        <header>
-          <strong>Referências!</strong>
-        </header>
-        <ul>
-          <li>
-            <a href="https://rogerdudler.github.io/git-guide/index.pt_BR.html"
-              >Comandos básicos de git</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://docs.github.com/pt/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line"
-              >Resolver um conflito de merge usando a linha de comando</a
-            >
-          </li>
-          <li>
-            <a
-              href="https://about.gitlab.com/blog/2016/09/06/resolving-merge-conflicts-from-the-gitlab-ui/"
-              >Resolving Merge Conflicts from the GitLab UI</a
-            >
-          </li>
-        </ul>
-      </section>
-    </div>
